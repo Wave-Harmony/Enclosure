@@ -32,11 +32,12 @@ This project involves the creation of a Real-Time Audio Spectrum Analyzer, house
 
 ## Dimensions
 The dimensions of the acrylic tower are shown in the accompanying picture (include a reference to the picture file here).
+![EnclosureSizes](https://github.com/WaveHarmoney/Enclosure/assets/123849272/d42298b4-bad5-46e0-b73d-1fd29394d01e)
 
 ## Conclusion
 This design ensures a robust and visually appealing enclosure for the Real-Time Audio Spectrum Analyzer, leveraging the strengths of both wood and acrylic materials. The choice of individual LEDs driven by LED driver ICs provides a superior visual output for spectrum visualization.
-![EnclosureSizes](https://github.com/WaveHarmoney/Enclosure/assets/123849272/d42298b4-bad5-46e0-b73d-1fd29394d01e)
 
+## Pictures
 ![WhatsApp Image 2023-11-30 at 12 27 50_204403b5](https://github.com/WaveHarmoney/Enclosure/assets/123849272/9d295d4f-dda4-487f-9ad6-bb9f489fa8f7)
 
 <img src="https://github.com/WaveHarmoney/Enclosure/assets/123849272/895c41bf-cd7a-4b71-97d7-5b1fa4904fb3" width="400" height="300"/>
